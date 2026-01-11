@@ -23,10 +23,15 @@ These geometries are intended for use in:
 
 ## 📚 Citation
 
-If you use these geometries in your work, please cite the following paper:
+If you use these geometries in your work, please cite the following works:
 
 **A Simplified Approach for Modulating Frontier Orbitals of Prototypical Organic Dyes for Efficient Dye-Sensitized Solar Cells**  
 arXiv:2601.03394 (2026)  
 https://doi.org/10.48550/arXiv.2601.03394
+
+**Tuning Domain-Based Charge Transfer in Organic Dyes: Impact of Heteroatom Doping on the π-Linker of Carbazole-Based Systems**  
+*Journal of Physical Chemistry A*  
+https://doi.org/10.1021/acs.jpca.5c07039
+
 
 
