@@ -5,14 +5,6 @@ These structures were used for electronic structure analysis and excited-state c
 
 The geometries correspond to systematically doped organic dye molecules and serve as the structural input for all computational analyses reported in the associated manuscript.
 
-## Citation
-
-If you use these geometries in your work, please cite the following paper:
-
-**A Simplified Approach for Modulating Frontier Orbitals of Prototypical Organic Dyes for Efficient Dye-Sensitized Solar Cells**  
-arXiv:2601.03394 (2026)  
-https://doi.org/10.48550/arXiv.2601.03394
-
 ## File Format
 
 - All geometry files are provided in standard **XYZ format**
@@ -26,7 +18,15 @@ These geometries are intended for use in:
 - Charge-transfer and excitation studies  
 - DSSC-related computational screening
 
----
+## **©️ Copyright**
+**Copyright © 2025, Szymon Śmiga Group**
 
-**Author(s):**  
-Aditi Singh et al.
+## 📚 Citation
+
+If you use these geometries in your work, please cite the following paper:
+
+**A Simplified Approach for Modulating Frontier Orbitals of Prototypical Organic Dyes for Efficient Dye-Sensitized Solar Cells**  
+arXiv:2601.03394 (2026)  
+https://doi.org/10.48550/arXiv.2601.03394
+
+
